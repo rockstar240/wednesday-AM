@@ -1,0 +1,13 @@
+.container {
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  grid-template-rows: repeat(4, 25%);
+  height: 500px;
+  width: 500px;
+  /*the line below centers the container*/
+  margin: 0 auto;
+}
+.word {
+  border: 1px solid black;
+}
