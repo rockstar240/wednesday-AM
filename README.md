@@ -22,3 +22,7 @@
 #### Fancy things up a bit:
 * Look up [jQuery's `fadeOut()` and/or `fadeIn()`](http://lmgtfy.com/?q=jQuery+fadeOut()) functions to make the messages appear more slowly.
 * [REMEMBER! Google is your friend](http://lmgtfy.com/?q=jQuery+fadeOut()).
+
+#### Personalize your webpage
+* Create a phrase using some of the words on the page
+* Change your `script.js` file so that your phrase is displayed using `fadeOut()` and/or `fadeIn()`
