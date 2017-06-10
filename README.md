@@ -10,6 +10,7 @@
 * Put a header above the container, it should say something like "Hidden Messages"
 * Use a [google font](https://fonts.google.com/) to set the body `font-family` to something fancy.
 * Make the background color of the container a transparent color using `rgba()`
+* Center ther words in the boxes.
 
 #### Okay, let's get into the jQuery:
 * Make sure you have the chrome developer tools console open on your webpage in chrome.
