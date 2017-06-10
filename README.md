@@ -21,6 +21,7 @@
 * Now display "WE LOVE TO CODE"
 
 #### Fancy things up a bit:
+* Investigate [jQuery's `css()` function](http://lmgtfy.com/?q=jQuery+css()), and use it to change the color of the words in the hidden message. 
 * Look up [jQuery's `fadeOut()` and/or `fadeIn()`](http://lmgtfy.com/?q=jQuery+fadeOut()) functions to make the messages appear more slowly.
 * [REMEMBER! Google is your friend](http://lmgtfy.com/?q=jQuery+fadeOut()).
 
