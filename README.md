@@ -14,7 +14,7 @@
 #### Okay, let's get into the jQuery:
 * Make sure you have the chrome developer tools console open on your webpage in chrome.
 * Answer the question on `script.js`.
-* After the `$(document).ready(function(){ ` write `console.log("page is loaded")`, then refresh the webpage and look your message in the console.
+* On the line after the `$(document).ready(function(){ ` write `console.log("page is loaded")`, then refresh the webpage and look for your message in the console.
 * If the previous step worked, you're ready to get down to the real business!
 * After your `console.log("page is loaded")` in `script.js` use the jQuery `hide()` and/or `show()` functions to make the page only display the words "YOU ARE SMART"
 * Now display "WE LOVE TO CODE"
