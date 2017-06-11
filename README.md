@@ -28,3 +28,6 @@
 #### Personalize your webpage
 * Create a phrase using some of the words on the page
 * Change your `script.js` file so that your phrase is displayed using `fadeOut()` and/or `fadeIn()`
+
+### Extension
+* Go back to your recipe page and add some styling
