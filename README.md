@@ -30,4 +30,6 @@
 * Change your `script.js` file so that your phrase is displayed using `fadeOut()` and/or `fadeIn()`
 
 ### Extension
+* Make this site look a little better with some css. 
+* Adding a [parallax image](https://www.w3schools.com/howto/howto_css_parallax.asp) might be cool! 
 * Go back to your recipe page and add some styling
