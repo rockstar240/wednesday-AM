@@ -19,10 +19,12 @@
 * If the previous step worked, you're ready to get down to the real business!
 * After your `console.log("page is loaded")` in `script.js` use the jQuery `hide()` and/or `show()` functions to make the page only display the words "YOU ARE SMART"
 * Now display "WE LOVE TO CODE"
+* How could renaming the `id` on each word be helpful?
 
 #### Fancy things up a bit:
 * Investigate [jQuery's `css()` function](http://lmgtfy.com/?q=jQuery+css()), and use it to change the color of the words in the hidden message. 
-* Look up [jQuery's `fadeOut()` and/or `fadeIn()`](http://lmgtfy.com/?q=jQuery+fadeOut()) functions to make the messages appear more slowly.
+* Look up [jQuery's `fadeOut()` and/or `fadeIn()`](http://lmgtfy.com/?q=jQuery+fadeOut()) functions to make the messages appear more slowly. Try out different combinations of fading! Note: you can also adjust the speed of the fade.
+* Look up jQuery's `fadeTo()` function to unwanted words to an opacity of 0.2
 * [REMEMBER! Google is your friend](http://lmgtfy.com/?q=jQuery+fadeOut()).
 
 #### Personalize your webpage
