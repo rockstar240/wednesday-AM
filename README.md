@@ -10,16 +10,16 @@
 * Put a header above the container, it should say something like "Hidden Messages"
 * Use a [google font](https://fonts.google.com/) to set the body `font-family` to something fancy.
 * Make the background color of the container a transparent color using `rgba()`
-* Center ther words in the boxes.
+* Center the words in the boxes.
 
 #### Okay, let's get into the jQuery:
 * Make sure you have the chrome developer tools console open on your webpage in chrome.
 * Answer the question on `script.js`.
-* On the line after the `$(document).ready(function(){ ` write `console.log("page is loaded")`, then refresh the webpage and look for your message in the console.
+* On the line after the `$(document).ready(function(){ ` write `console.log("page is loaded");`, then refresh the webpage and look for your message in the console.
 * If the previous step worked, you're ready to get down to the real business!
-* After your `console.log("page is loaded")` in `script.js` use the jQuery `hide()` and/or `show()` functions to make the page only display the words "YOU ARE SMART"
+* After your `console.log("page is loaded");` in `script.js` use the jQuery `hide()` and/or `show()` functions to make the page only display the words "YOU ARE SMART"
 * Now display "WE LOVE TO CODE"
-* How could renaming the `id` on each word be helpful?
+* How could renaming the `id` on each word be helpful? Re-name the ids.
 
 #### Fancy things up a bit:
 * Investigate [jQuery's `css()` function](http://lmgtfy.com/?q=jQuery+css()), and use it to change the color of the words in the hidden message. 
@@ -32,6 +32,8 @@
 * Change your `script.js` file so that your phrase is displayed using `fadeOut()` and/or `fadeIn()`
 
 ### Extension
+* Complete [rock, paper, scissors](https://github.com/hello-world-tech-studios/rock-paper-scissors-js) from yesterday, if you didn't finish
 * Make this site look a little better with some css. 
 * Adding a [parallax image](https://www.w3schools.com/howto/howto_css_parallax.asp) might be cool! 
 * Go back to your recipe page and add some styling
+* We used the [CSS grid](http://cssgridgarden.com/) to make this grid. Play this [game](http://cssgridgarden.com/) to learn about the CSS grid.
