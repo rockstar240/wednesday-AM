@@ -5,9 +5,12 @@
   grid-template-rows: repeat(4, 25%);
   height: 500px;
   width: 500px;
-  /*the line below centers the container*/
   margin: 0 auto;
+  background-color:rgba(255, 255, 255, 0.27);
 }
 .word {
   border: 1px solid black;
 }
+
+body{background: linear-gradient(purple,#38167c, blue); height:100%; text-align: center; font-family: fantasy}
+html{height:100%;}
