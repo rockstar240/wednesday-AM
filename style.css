@@ -1,3 +1,7 @@
+h1{
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
 .container {
   border: 1px solid black;
   display: grid;
@@ -5,9 +9,21 @@
   grid-template-rows: repeat(4, 25%);
   height: 500px;
   width: 500px;
+  background-color: rgba(147, 122, 139, 0.6);
+  text-align: center; 
+  font-family: 'Kaushan Script', cursive;
   /*the line below centers the container*/
   margin: 0 auto;
 }
 .word {
-  border: 1px solid black;
+  border: 10px solid black;
+  border-radius: 10px;
+}
+body{
+  background-color: #af99ac
+}
+#bebe{
+  background-color: #69446b;
+  border: 10px solid black;
+  border-radius: 10px;
 }
