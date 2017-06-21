@@ -7,7 +7,16 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background-color: rgba(green, 0.5);
 }
 .word {
   border: 1px solid black;
+  text-align: center;
+}
+body {
+  background-color: #42cbf4;
+}
+h1	{
+  font-family: cursive;
+  text-align: center;
 }
