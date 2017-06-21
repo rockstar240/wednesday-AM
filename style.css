@@ -7,7 +7,23 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background-color: rgba(255,0,0,.5);
+  text-align: center;
 }
-.word {
+div {
   border: 1px solid black;
+}
+
+body {
+font-family: 'Bubbler One', sans-serif;
+background-color: transparent;
+}
+
+h1 {
+text-align: center;
+}
+
+#dudes {
+font-size: 300px;
+margin: 0 auto;
 }
