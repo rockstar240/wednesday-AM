@@ -7,7 +7,17 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background: rgba(200, 500, 200, 0.9)
+}
 }
 .word {
   border: 1px solid black;
+  text-align: center;
+}
+body {
+  
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-align:center;
 }
