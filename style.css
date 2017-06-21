@@ -1,3 +1,8 @@
+body{
+  font-family: "Spectral", "Serif";
+  background-color: #84d315;
+}
+
 .container {
   border: 1px solid black;
   display: grid;
@@ -7,7 +12,16 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background-color: rgba(255,255,255, .2);
+  text-align: center;
 }
-.word {
+.random, .step1, .step2 {
   border: 1px solid black;
+}
+
+
+
+
+h1{
+  text-align:center;
 }
