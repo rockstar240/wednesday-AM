@@ -7,7 +7,29 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .word {
   border: 1px solid black;
+}
+
+body {
+  background-color: #0aceff;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.parallax {
+  /*background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/MRF1628S9A.jpg");*/
+  background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/FSPLFPQBCZ.jpg");
+  height: 900px;
+  /*background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/CWYK8CLC61.jpg");*/
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
 }
