@@ -21,23 +21,22 @@ $(document).ready(function(){
   $(".random").css({"color":"purple"});
   $(".step1, .step2, .step3, .random").hide()
   for(a = 0; a < 11; a++ ){
-console.log(a)
-    setInterval(function(){
-    $(".step1").fadeIn(1000)}, 0);
+
+      $(".step1").fadeIn(1000)
     
-    setInterval(function(){
+    setTimeout(function(){
       $(".step1").fadeOut(1000)}, 1000);
     
-    setInterval(function(){
+    setTimeout(function(){
       $(".step2").fadeIn(1000)}, 2000);
 
-    setInterval(function(){
+    setTimeout(function(){
       $(".step2").fadeOut(1000)}, 3000);
     
-    setInterval(function(){
+    setTimeout(function(){
       $(".step3").fadeIn(1000)}, 4000);
     
-    setInterval(function(){
+    setTimeout(function(){
       $(".step3").fadeOut(1000)}, 5000);
   }
 })
