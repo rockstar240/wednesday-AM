@@ -3,30 +3,39 @@
 $(document).ready(function(){
 // your code goes below 
 console.log("page is loaded");
-// $("#word-2").hide();
-// $("#word-4").hide();
-// $("#word-5").hide();
-// $("#word-6").hide();
-// $("#word-7").hide();
-// $("#word-8").hide();
-// $("#word-9").hide();
-// $("#word-10").hide();
-// $("#word-11").hide();
-// $("#word-12").hide();
-// $("#word-13").hide();
-// $("#word-15").hide();
-// $("#word-16").hide();
-$("#word-1").hide();
-$("#word-3").hide();
-$("#word-4").hide();
-$("#word-5").hide();
-$("#word-8").hide();
-$("#word-9").hide();
-$("#word-10").hide();
-$("#word-11").hide();
-$("#word-12").hide();
-$("#word-13").hide();
-$("#word-14").hide();
-$("#word-15").hide();
+// $("#1").css("color", "red");
+// $("#2").hide();
+// $("#3").css("color", "red");
+// $("#4").hide();
+// $("#5").hide();
+// $("#6").hide();
+// $("#7").hide();
+// $("#8").hide();
+// $("#9").hide();
+// $("#10").hide();
+// $("#11").hide();
+// $("#12").hide();
+// $("#13").hide();
+// $("#14").css("color", "red");
+// $("#15").hide();
+// $("#16").hide();
+
+
+// $("#1").hide();
+// $("#2").css("color", "red");
+// $("#3").hide();
+// $("#4").hide();
+// $("#5").hide();
+// $("#6").css("color", "red");
+// $("#7").css("color", "red");
+// $("#8").hide();
+// $("#9").hide();
+// $("#10").hide();
+// $("#11").hide();
+// $("#12").hide();
+// $("#13").hide();
+// $("#14").hide();
+// $("#15").hide();
+// $("#16").css("color", "red");
 });
 
