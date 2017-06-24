@@ -6,15 +6,25 @@ console.log("page is loaded");
   $(".one").click(function() {
     $(".word").fadeOut();
     $(".smart").fadeIn();
+    $(".smart").addClass("animated wobble");
+    setTimeout(function() { 
+    $(".smart").removeClass("animated wobble");
     $(".smart").css("color", "#ff0000");
+    $(".smart").addClass("infinite animated bounce");
+    },3000);
+      
   })
   $(".two").click(function() {
     $(".word").fadeOut();
     $(".code").fadeIn();
     $(".code").css("color", "#32CD32");
+    $(".code").addClass("animated bounce")
+    $(".code").delay(800)
+    $(".code").addClass("infinite animated pulse")
   })
   $(".three").click(function() {
     location.reload(true);
+    
   })
 
 
