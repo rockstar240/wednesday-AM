@@ -1,4 +1,14 @@
+
+  body {
+background-color: #42f4d7;
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
 .container {
+text-align: center;
+line-height: 120px;
+
+
   border: 1px solid black;
   display: grid;
   grid-template-columns: repeat(4, 25%);
@@ -7,7 +17,10 @@
   width: 500px;
   /*the line below centers the container*/
   margin: 0 auto;
+  background-color: #5f42f4
 }
 .word {
+  text-align: center;
+  line-height: 120px;
   border: 1px solid black;
 }
